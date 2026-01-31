@@ -1,9 +1,3 @@
-This is a fantastic start to your Solana development journey! You’ve successfully navigated the most common hurdles: PDAs, Anchor's automatic account resolution, and TypeScript's BigNumber handling.
-
-Here is a professionally structured `README.md` for your project that summarizes your build and the key concepts you mastered.
-
----
-
 # 🧮 Solana Calci (PDA Version)
 
 A decentralized calculator program built on Solana using the **Anchor Framework**. This project demonstrates the implementation of Program Derived Addresses (PDAs), state management, and custom error handling on-chain.
@@ -112,5 +106,3 @@ pub fn div(ctx: Context<Div>, a: i64, b: i64) -> Result<()> {
 Special thanks to the **Code Eater** Solana Mastery course for the step-by-step guidance on Anchor and the Solana Account Model.
 
 ---
-
-**Would you like me to add a section to this README on how to deploy this program to the Solana Devnet?**
